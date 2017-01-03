@@ -3,7 +3,7 @@
 
 Baixe o reposítório, logo apenas instale os plugins do node.
 
-`$ npm init`
+`$ npm install`
 
 Logo após, basta iniciar o gulp utulizando o comando.
 
